@@ -1,5 +1,5 @@
 ### 📄 **README.md**
-```md
+
 # User Management Client
 
 ## 🔍 Overview
